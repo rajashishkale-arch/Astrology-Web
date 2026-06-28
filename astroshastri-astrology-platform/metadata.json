@@ -1,0 +1,6 @@
+{
+  "name": "AstroShastri Astrology Platform",
+  "description": "Premium full-stack Vedic Astrology Platform with real-time appointment scheduling, secure UPI payments, customer management, and a complete CMS admin control dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
